@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dein-sanftes-lacheln/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Dein sanftes Lächeln](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dein-sanftes-lacheln/) |
+| **Get License** | [Commercial Licensing for Dein sanftes Lächeln](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dein-sanftes-lacheln/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c5bc8ebdc212385223c4457c89add7b0338042de5442b1f0364231a0740fd2af` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
