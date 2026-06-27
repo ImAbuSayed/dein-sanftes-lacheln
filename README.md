@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dein-sanftes-lacheln/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Dein sanftes Lächeln](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dein-sanftes-lacheln/) |
+| **Get License** | [Music Rights & Licensing for Dein sanftes Lächeln](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dein-sanftes-lacheln/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Seh' dein sanftes Lächeln blitzen, hell im Club-Neonlicht
+> Diese ganze Welt wird leise, wenn du nur mit mir sprichst
+> Steig' in den Wagen, lass uns fahren durch die Skyline-Nacht
+> Du bist der Engel, der in mir das Feuer neu entfacht
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
